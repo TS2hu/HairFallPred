@@ -1,4 +1,4 @@
-# HairFallPred
+# Hair Fall Prediction
 
 ## Abstract: 
 The main goal of this model is to identify factors that play a role in hairfall and uses Random Forest to predict whether an individual will experience hair fall based on these factors. This model provides a cohesive and personalizable solution in determining if someone is likely to face hair loss. Furthermore, this can facilitate early detection, timely identification, and improve healthcare guidance for effective treatment planning. 
